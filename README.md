@@ -4,7 +4,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 ![SkillFactory](https://img.shields.io/badge/-SkillFactory-green)
 
-<img src="https://github.com/denis-marchenkov-sf/speech_recognition/assets/132751044/a30495e6-2814-4237-b89c-0a68217223bf" width="100" height="100" />
+<img src="https://raw.githubusercontent.com/denis-marchenkov-sf/assets/master/works_on_my_machine.png" width="100" height="100" />
 
 <br/>
 
@@ -36,7 +36,7 @@
 
 ## Пример работы
 
-![speech](https://github.com/denis-marchenkov-sf/speech_recognition/assets/132751044/edf07493-038e-4606-92fe-882d486b5af6)
+![speech](https://raw.githubusercontent.com/denis-marchenkov-sf/assets/master/speech_record_demo.gif)
 
 <br/>
 
@@ -46,11 +46,11 @@
 
 Блок "Запись" содержит виджет выбора директории для сохранения аудиозаписи (по умолчанию рабочая директория) и непосредственно кнопку записи аудио:
 
-![Code_WsvXIXmLQ1](https://github.com/denis-marchenkov-sf/speech_recognition/assets/132751044/904165c8-868a-4986-b1e5-294107d04c41)
+![record](https://raw.githubusercontent.com/denis-marchenkov-sf/assets/master/recording.png)
 
 Блок "Распознавание" содержит виджет выбора существующего .wav файла, кнопку распознавания выбранного файла, кнопку распознавания речи на лету и текстовое поле с результатом:
 
-![Code_wrTaULJgCf](https://github.com/denis-marchenkov-sf/speech_recognition/assets/132751044/90d9a903-f82b-446a-9105-f3983a3df98a)
+![regognize](https://raw.githubusercontent.com/denis-marchenkov-sf/assets/master/recognition.png)
 
 <br />
 
