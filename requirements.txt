@@ -1,0 +1,10 @@
+ipywidgets==8.1.1
+IPython==8.15.0
+ipyfilechooser==0.6.0
+wave==0.0.2
+pvrecorder==1.2.1
+vosk==0.3.45
+pydub==0.25.1
+torch==2.0.1
+transformers==4.33.2
+pyaudio==0.2.13
