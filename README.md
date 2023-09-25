@@ -68,7 +68,6 @@
 ! pip install IPython
 ! pip install ipyfilechooser
 ! pip install wave
-! pip install pvrecorder
 ! pip install vosk
 ! pip install pydub
 ! pip install torch
